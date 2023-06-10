@@ -4,7 +4,7 @@ Repository for Machine Learning Projects
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Supervised+Learning;Unsupervised+Learning;Semi-supervised+Learning;Reinforcement+Learning;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Supervised+Learning;Unsupervised+Learning;Semi-supervised+Learning;Reinforcement+Learning;AND;Keep+Learning;&center=true&width=380&height=45"></a>
 
   
 ### Frameworks and Libraries
