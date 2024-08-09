@@ -1,10 +1,14 @@
 <h1 align="center">
-Repository for Machine Learning Projects
+Machine Learning and Data Science Projects
+
+### Overview
+This is the repository where I store all the machine learning and data science related projects. These projects are mainly in jupyternootbooks. I intend to use this repository as a tracker of my personal learning.
+
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Supervised+Learning;Unsupervised+Learning;Semi-supervised+Learning;Reinforcement+Learning;AND;Keep+Learning;&center=true&width=380&height=45"></a>
+ 
 
   
 ### Frameworks and Libraries
