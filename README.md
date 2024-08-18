@@ -2,8 +2,7 @@
 Machine Learning and Data Science Projects
 
 ### Overview
-This is the repository where I store all the machine learning and data science related projects I have implemented. These projects are mainly in jupyternootbooks.
-
+This is the repository where I store all the machine learning and data science related projects I have implemented.
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
